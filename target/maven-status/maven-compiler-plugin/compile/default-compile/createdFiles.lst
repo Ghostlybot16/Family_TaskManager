@@ -1,3 +1,2 @@
-com\familytaskmanager\Application.class
 com\familytaskmanager\model\Task.class
 com\familytaskmanager\TestMySQLConnection.class
